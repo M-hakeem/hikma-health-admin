@@ -151,7 +151,7 @@ export default function AppLayout(props: Props) {
               />
             </MediaQuery>
 
-            <Text fz="xl">Hikma Health Admin</Text>
+            <Text fz="xl">Parkers health admin</Text>
           </div>
         </Header>
       }
