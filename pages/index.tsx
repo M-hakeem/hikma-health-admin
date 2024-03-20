@@ -64,7 +64,7 @@ export default function Login() {
       <Title
         align="center"
       >
-        Hikma Health Administrators
+        Parkers health admin
       </Title>
 
       <Paper withBorder shadow="md" p={30} mt={30} radius="md">
